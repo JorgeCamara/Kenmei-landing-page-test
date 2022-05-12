@@ -1,0 +1,8 @@
+{
+  "short_name": "Landing Page with Notification",
+  "name": "Small landing page showing a generic notification message",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
